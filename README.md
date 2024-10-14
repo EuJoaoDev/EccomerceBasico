@@ -60,9 +60,10 @@ O projeto é dividido em várias partes principais:
 
 ##Abaixo Imagens
 
+![image](https://github.com/user-attachments/assets/3b050735-e5e6-46ae-8ddf-fb448c58677f)
+![image](https://github.com/user-attachments/assets/0fdc999a-40cb-4296-a086-a3d320cc54de)
+![image](https://github.com/user-attachments/assets/9b6aafe7-80e2-48a6-8ebb-6f0cc95b9721)
 
-![tela login](https://github.com/user-attachments/assets/7ed94d8a-94e0-46e2-8b4b-d939e09c1ec5)
-![tela produtos](https://github.com/user-attachments/assets/be34a675-2511-46b9-b788-e1dcebb05f47)
-![Tela Carrinho](https://github.com/user-attachments/assets/a46bd964-34be-4b04-bc0c-ab579f29e0fc)
+
 
 
