@@ -31,39 +31,32 @@ Para executar o projeto, siga os passos abaixo:
    git clone https://github.com/EuJoaoDev/EccomerceBasico
    cd ecommerce-basico
 
-## Instalação das Dependências
+Instalação das Dependências: Para instalar as dependências do projeto, execute o seguinte comando:
 
-Para instalar as dependências do projeto, execute o seguinte comando:
-
-```bash
 npm install
 
-## Estrutura do Projeto
-
+Estrutura do Projeto
 O projeto é dividido em várias partes principais:
 
-- **`src/context`**: Contém os contextos de autenticação, carrinho e tema.
-- **`src/pages`**: Contém as páginas principais do aplicativo, como Home, Produtos e Carrinho.
-- **`src/components`**: Contém componentes reutilizáveis.
+src/context: Contém os contextos de autenticação, carrinho e tema.
+src/pages: Contém as páginas principais do aplicativo, como Home, Produtos e Carrinho.
+src/components: Contém componentes reutilizáveis.
 
-## Contextos
+Contextos
 
-- **AuthContext**: Gerencia o estado do usuário e autenticação.
-- **CartContext**: Gerencia os itens no carrinho de compras.
-- **ThemeContext**: Permite alternar entre temas claro e escuro.
+AuthContext: Gerencia o estado do usuário e autenticação.
+CartContext: Gerencia os itens no carrinho de compras.
+ThemeContext: Permite alternar entre temas claro e escuro.
 
-## Páginas
+Páginas
 
-- **HomePage**: Página inicial com opções de navegação.
-- **ProductPage**: Exibe produtos disponíveis para compra.
-- **CartPage**: Exibe os itens adicionados ao carrinho.
+HomePage: Página inicial com opções de navegação.
+ProductPage: Exibe produtos disponíveis para compra.
+CartPage: Exibe os itens adicionados ao carrinho.
 
+Abaixo Imagens
 
-##Abaixo Imagens
-
-![image](https://github.com/user-attachments/assets/3b050735-e5e6-46ae-8ddf-fb448c58677f)
-![image](https://github.com/user-attachments/assets/0fdc999a-40cb-4296-a086-a3d320cc54de)
-![image](https://github.com/user-attachments/assets/9b6aafe7-80e2-48a6-8ebb-6f0cc95b9721)
-
-
+![image](https://github.com/user-attachments/assets/5c89bffe-8fa9-4308-a9b0-66e93a9583d3)
+![image](https://github.com/user-attachments/assets/42742611-189d-4bd3-b51d-120e38eeebdf)
+![image](https://github.com/user-attachments/assets/d038fee4-0389-4ab0-bc6a-fc4efe4db173)
 
