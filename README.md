@@ -38,7 +38,7 @@ Para instalar as dependências do projeto, execute o seguinte comando:
 ```bash
 npm install
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto é dividido em várias partes principais:
 
@@ -58,12 +58,12 @@ O projeto é dividido em várias partes principais:
 - **ProductPage**: Exibe produtos disponíveis para compra.
 - **CartPage**: Exibe os itens adicionados ao carrinho.
 
+
 ##Abaixo Imagens
 
 ![image](https://github.com/user-attachments/assets/3b050735-e5e6-46ae-8ddf-fb448c58677f)
 ![image](https://github.com/user-attachments/assets/0fdc999a-40cb-4296-a086-a3d320cc54de)
 ![image](https://github.com/user-attachments/assets/9b6aafe7-80e2-48a6-8ebb-6f0cc95b9721)
-
 
 
 
