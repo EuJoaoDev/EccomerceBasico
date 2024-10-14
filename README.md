@@ -6,7 +6,7 @@ Este aplicativo foi desenvolvido em React Native e oferece uma experiência de c
 - [⚙️ Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [🚀 Como Executar o Projeto](#como-executar-o-projeto)
 - [🔧 Estrutura do Projeto](#estrutura-do-projeto)
-- [✏️ Contribuições](#contribuições)
+
 
 ## 📦 Funcionalidades
 
